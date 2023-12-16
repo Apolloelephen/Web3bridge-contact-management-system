@@ -35,8 +35,7 @@ The Web3bridge Contact Management System is a tool created to streamline the org
 
 ### Screenshot
 
-![screenshot](https://github.com/Apolloelephen/Web3bridge-contact-management-system/assets/90451195/cac6cc5c-ff93-4684-87ed-4e0e13c76abb)
-
+![Screenshot from 2023-12-16 12-02-16](https://github.com/Apolloelephen/Web3bridge-contact-management-system/assets/90451195/b5011a23-b90f-4b77-9c86-c049b6025207)
 
 ### Links
 
